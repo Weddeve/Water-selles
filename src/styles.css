@@ -1,0 +1,37 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background: linear-gradient(
+    99.6deg,
+    rgb(59, 176, 255) 0%,
+    rgb(76, 222, 250) 83.6%
+  );
+}
+
+.heading {
+  text-align: center;
+  font-size: 60px;
+}
+
+.prices {
+  font-size: 36px;
+  text-align: justify;
+}
+
+.informantion {
+  text-align: justify;
+  max-width: 800px;
+  margin: 65px auto;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 16px;
+  padding: 30px;
+}
+
+.bottles {
+  text-align: justify;
+  font-size: 20px;
+}
+
+footer{
+  text-align: end;
+font-size: 18px;
+}
